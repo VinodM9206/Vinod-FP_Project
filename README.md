@@ -8,13 +8,13 @@ UI Automation using Selenium & TestNG to test the "Add to Cart" functionality on
 API Automation using RestAssured to validate a GET request response from Reqres.
 
 
-Tools & Technologies
+# Tools & Technologies
 
 Java, Selenium, TestNG, RestAssured
 
 Eclipse IDE, Maven, ChromeDriver
 
-PROJECT STRUCTURE 
+# PROJECT STRUCTURE 
 Vinod_Assessment/
 │── src/
 │   ├── main/
@@ -26,18 +26,11 @@ Vinod_Assessment/
 │   │   │   ├── apiTests/  # API Automation Tests
 │── pom.xml  # Dependencies
 
-Dependencies (from pom.xml)
+# Dependencies (from pom.xml)
 
-Selenium Java (4.10.0)
+Selenium Java (4.10.0) TestNG (7.7.0) RestAssured (5.3.0)
 
-TestNG (7.7.0)
-
-RestAssured (5.3.0)
-
-
-
-
-Setup Instructions
+# Setup Instructions
 
 Clone the repository.
 
@@ -49,7 +42,8 @@ Download & set up the ChromeDriver.
 
 Run the test scripts.
 
-How to Execute Tests
+
+# How to Execute Tests
 
 1️⃣ UI Automation - "Add to Cart" Test
 
@@ -84,13 +78,12 @@ Validates that the response status code is 200
 I have also uploaded screenshot of console output after executing the programs
 
 
-
-Notes
+# Notes
 
 Test credentials for SauceDemo are provided on the login page.
 
 Test results will be logged in the console.
 
-Author
+# Author
 
 Vinod M.
