@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-31T13:47:43 IST" name="Default suite" finished-at="2025-03-31T13:47:47 IST" duration-ms="3417">
+    <groups>
+    </groups>
+    <test started-at="2025-03-31T13:47:43 IST" name="Default test" finished-at="2025-03-31T13:47:47 IST" duration-ms="3417">
+      <class name="tests.TestAddToCart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestAddToCart@206a70ef]" started-at="2025-03-31T13:47:43 IST" name="setUp" finished-at="2025-03-31T13:47:45 IST" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:1, instance:tests.TestAddToCart@206a70ef]" started-at="2025-03-31T13:47:45 IST" name="testLogin" finished-at="2025-03-31T13:47:45 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testAddToCart()[pri:2, instance:tests.TestAddToCart@206a70ef]" started-at="2025-03-31T13:47:45 IST" name="testAddToCart" finished-at="2025-03-31T13:47:46 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToCart -->
+        <test-method signature="testLogout()[pri:3, instance:tests.TestAddToCart@206a70ef]" started-at="2025-03-31T13:47:46 IST" name="testLogout" finished-at="2025-03-31T13:47:46 IST" duration-ms="713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestAddToCart@206a70ef]" started-at="2025-03-31T13:47:46 IST" name="tearDown" finished-at="2025-03-31T13:47:47 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TestAddToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
